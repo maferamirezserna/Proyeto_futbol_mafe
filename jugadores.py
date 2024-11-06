@@ -32,7 +32,7 @@ def registrar_jugador(id_jugador, nombre, numero, posicion, equipo_id):
         list: Devuelve la lista de jugadores actualizada, o None si ya existe un jugador con el mismo ID.
     """
 
-    if not any(equipo["equipo_id"] == equipo_id for equipo in equipos):
+    if not any(equipo["id"] == equipo_id for equipo in equipos):
         print(f"Error: El equipo con ID {equipo_id} no existe. No se puede registrar el jugador.")
         return None
 
