@@ -1,0 +1,16 @@
+[
+    {
+        "id": "ARB180",
+        "nombre": "Juan",
+        "experiencia": 8,
+        "categoria": "Fifa",
+        "partidos_dirigidos": 1
+    },
+    {
+        "id": "ARB38475",
+        "nombre": "hola",
+        "experiencia": 2,
+        "categoria": "Fifa",
+        "partidos_dirigidos": 0
+    }
+]

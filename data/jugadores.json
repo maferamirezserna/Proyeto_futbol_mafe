@@ -1,0 +1,62 @@
+[
+    {
+        "id": "JUG125",
+        "nombre": "juan",
+        "numero": 4,
+        "posicion": "Delantero",
+        "equipo_id": 1234,
+        "estadisticas": {
+            "partidos": 1,
+            "goles": 0,
+            "asistencias": 1,
+            "amarillas": 2,
+            "rojas": 0,
+            "minutos": 90
+        }
+    },
+    {
+        "id": "JUG1",
+        "nombre": "1",
+        "numero": 1,
+        "posicion": "Delantero",
+        "equipo_id": 1,
+        "estadisticas": {
+            "partidos": 0,
+            "goles": 0,
+            "asistencias": 0,
+            "amarillas": 0,
+            "rojas": 0,
+            "minutos": 0
+        }
+    },
+    {
+        "id": "JUG321",
+        "nombre": "Juan",
+        "numero": 23,
+        "posicion": "Delantero",
+        "equipo_id": 378,
+        "estadisticas": {
+            "partidos": 0,
+            "goles": 0,
+            "asistencias": 0,
+            "amarillas": 0,
+            "rojas": 0,
+            "minutos": 0
+        }
+    },
+    {
+        "id": "JUG123",
+        "nombre": "Pedro",
+        "numero": 9,
+        "posicion": "Portero",
+        "equipo_id": 142,
+        "estadisticas": {
+            "partidos": 0,
+            "goles": 0,
+            "asistencias": 0,
+            "amarillas": 0,
+            "rojas": 0,
+            "minutos": 0
+        }
+    }
+]

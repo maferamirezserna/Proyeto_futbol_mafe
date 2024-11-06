@@ -1,0 +1,84 @@
+[
+    {
+        "id": "PAR1",
+        "fecha": "1992-03-12",
+        "arbitro_id": 180,
+        "equipo_local": "Once",
+        "equipo_visitante": "Nacional",
+        "goles_local": 2,
+        "goles_visitante": 1,
+        "alineamiento_local": [],
+        "alineamiento_visitante": [],
+        "eventos": [
+            {
+                "minuto": 10,
+                "tipo": "Gol",
+                "jugador": "Juan",
+                "equipo": "Once"
+            },
+            {
+                "minuto": 20,
+                "tipo": "Gol",
+                "jugador": "Juan",
+                "equipo": "Once"
+            }
+        ]
+    },
+    {
+        "id": "PAR2",
+        "fecha": "1999-03-25",
+        "arbitro_id": "ARB180",
+        "equipo_local": "once",
+        "equipo_visitante": "medellin",
+        "goles_local": 0,
+        "goles_visitante": 0,
+        "alineamiento_local": [],
+        "alineamiento_visitante": [],
+        "eventos": []
+    },
+    {
+        "id": "PAR3",
+        "fecha": "2000-03-02",
+        "arbitro_id": "ARB180",
+        "equipo_local": "once",
+        "equipo_visitante": "medellin",
+        "goles_local": 0,
+        "goles_visitante": 0,
+        "alineamiento_local": [],
+        "alineamiento_visitante": [],
+        "eventos": [],
+        "alineacion_local": [
+            "3",
+            "4",
+            "4"
+        ],
+        "alineacion_visitante": [
+            "1",
+            "2",
+            "4",
+            "4"
+        ]
+    },
+    {
+        "id": "PAR115995",
+        "fecha": "2003-05-24",
+        "arbitro_id": "ARB159",
+        "equipo_local": "123",
+        "equipo_visitante": "once",
+        "goles_local": 0,
+        "goles_visitante": 0,
+        "alineamiento_local": [],
+        "alineamiento_visitante": [],
+        "eventos": [],
+        "alineacion_local": [
+            "2",
+            "4",
+            "4"
+        ],
+        "alineacion_visitante": [
+            "2",
+            "4",
+            "4"
+        ]
+    }
+]

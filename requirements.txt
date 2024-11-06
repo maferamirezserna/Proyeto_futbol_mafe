@@ -1,0 +1,2 @@
+# Para asegurar compatibilidad de JSON si es necesario manipulación más compleja
+ujson==5.8.0
