@@ -88,5 +88,35 @@
             "rojas": 0,
             "minutos": 0
         }
+    },
+    {
+        "id": "JUG128",
+        "nombre": "mario",
+        "numero": 9,
+        "posicion": "Delantero",
+        "equipo_id": "5",
+        "estadisticas": {
+            "partidos": 0,
+            "goles": 0,
+            "asistencias": 0,
+            "amarillas": 0,
+            "rojas": 0,
+            "minutos": 0
+        }
+    },
+    {
+        "id": "JUG130",
+        "nombre": "leo",
+        "numero": 10,
+        "posicion": "Defensa",
+        "equipo_id": "876",
+        "estadisticas": {
+            "partidos": 0,
+            "goles": 0,
+            "asistencias": 0,
+            "amarillas": 0,
+            "rojas": 0,
+            "minutos": 0
+        }
     }
 ]
